@@ -1,0 +1,101 @@
+[
+  {
+    "email": "majo@gmail.com",
+    "firstName": "Majo",
+    "lastName": "Orozco",
+    "password": "123",
+    "bio": "Soy Majo, una coach certificada para maratones. Me encanta acompañar a mis atletas desde su primer 5K hasta su primer maratón.",
+    "locale": "es-MX",
+    "verifiedStatus": "pending"
+  },
+  {
+    "email": "pablito@icloud.com",
+    "firstName": "Jose Pablo",
+    "lastName": "Orozco",
+    "password": " ",
+    "bio": "Hermano mayor de Majo, coach para ponerte mamado. Entreno con enfoque en fuerza funcional y disciplina mental.",
+    "locale": "es-MX",
+    "verifiedStatus": "done"
+  },
+  {
+    "email": "val.torres@coach.mx",
+    "firstName": "Valeria",
+    "lastName": "Torres",
+    "password": "valFit23",
+    "bio": "Coach de bienestar integral. Te ayudo a construir hábitos saludables y una relación positiva con la comida.",
+    "locale": "es-MX",
+    "verifiedStatus": "done"
+  },
+  {
+    "email": "ricardo.fit@mxmail.com",
+    "firstName": "Ricardo",
+    "lastName": "López",
+    "password": "ricardo123",
+    "bio": "Entrenador personal con 8 años de experiencia. Especialista en pérdida de grasa y ganancia muscular.",
+    "locale": "es-MX",
+    "verifiedStatus": "done"
+  },
+  {
+    "email": "sofi.ramirez@coach.mx",
+    "firstName": "Sofía",
+    "lastName": "Ramírez",
+    "password": "sofiaRun!",
+    "bio": "Coach de running y resistencia. Si corres, ya eres atleta; yo te enseño a disfrutarlo más.",
+    "locale": "es-MX",
+    "verifiedStatus": "email_sent"
+  },
+  {
+    "email": "fernando@stronglab.mx",
+    "firstName": "Fernando",
+    "lastName": "Castro",
+    "password": "ferStrong",
+    "bio": "Coach especializado en fuerza y levantamiento olímpico. Menos excusas, más kilos.",
+    "locale": "es-MX",
+    "verifiedStatus": "done"
+  },
+  {
+    "email": "andrea.mendoza@mxcoach.com",
+    "firstName": "Andrea",
+    "lastName": "Mendoza",
+    "password": "andreaFit1",
+    "bio": "Entrenadora de HIIT y movilidad. El objetivo: moverte mejor, sentirte mejor.",
+    "locale": "es-MX",
+    "verifiedStatus": "pending"
+  },
+  {
+    "email": "omar.navarro@coach.mx",
+    "firstName": "Omar",
+    "lastName": "Navarro",
+    "password": "omarFit2025",
+    "bio": "Preparador físico de equipos juveniles. Amo ver cómo el esfuerzo cambia vidas.",
+    "locale": "es-MX",
+    "verifiedStatus": "done"
+  },
+  {
+    "email": "paula.gonzalez@fitmail.mx",
+    "firstName": "Paula",
+    "lastName": "González",
+    "password": "paulaGfit",
+    "bio": "Coach nutricional. Enseño que comer bien no es una dieta, es un estilo de vida.",
+    "locale": "es-MX",
+    "verifiedStatus": "done"
+  },
+  {
+    "email": "luis.carrillo@mxmail.com",
+    "firstName": "Luis",
+    "lastName": "Carrillo",
+    "password": "luisPro12",
+    "bio": "Coach deportivo con enfoque en calistenia y control corporal. Todo con tu propio peso.",
+    "locale": "es-MX",
+    "verifiedStatus": "email_sent"
+  },
+  {
+    "email": "karla.rios@coachfit.mx",
+    "firstName": "Karla",
+    "lastName": "Ríos",
+    "password": "karlaStrong",
+    "bio": "Entrenadora funcional. Te enseño a moverte sin dolor y ganar energía real.",
+    "locale": "es-MX",
+    "verifiedStatus": "done"
+  }
+]

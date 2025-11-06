@@ -1,0 +1,93 @@
+[
+  {
+    "email": "jose@amazon.com",
+    "firstName": "Jose",
+    "lastName": "Sulaiman",
+    "password": "123",
+    "goals": "Desarollar FirstReps!",
+    "sports": ["AJEDREZ"],
+    "locale": "es-MX",
+    "verifiedStatus": "done"
+  },
+  {
+    "email": "majo.sulaiman@gmail.com",
+    "firstName": "Majo",
+    "lastName": "Sulaiman",
+    "password": "majoPass1",
+    "bio": "Diseñadora UI/UX y amante del café. Siempre en busca de inspiración.",
+    "locale": "es-MX",
+    "verifiedStatus": "done"
+  },
+  {
+    "email": "omar.navarro@mxmail.mx",
+    "firstName": "Omar",
+    "lastName": "Navarro",
+    "password": "omarNav2024",
+    "bio": "Emprendedor y fan del fútbol. Trabajo por mis metas todos los días.",
+    "locale": "es-MX",
+    "verifiedStatus": "email_sent"
+  },
+  {
+    "email": "paula.gonzalez@correo.mx",
+    "firstName": "Paula",
+    "lastName": "González",
+    "password": "paula123",
+    "bio": "Nutrióloga apasionada por el bienestar físico y mental.",
+    "locale": "es-MX",
+    "verifiedStatus": "pending"
+  },
+  {
+    "email": "diego.martinez@outlook.com",
+    "firstName": "Diego",
+    "lastName": "Martínez",
+    "password": "diegofit",
+    "bio": "Entrenador personal con 5 años de experiencia en fuerza y acondicionamiento.",
+    "locale": "es-MX",
+    "verifiedStatus": "done"
+  },
+  {
+    "email": "sofia.ramirez@mxmail.com",
+    "firstName": "Sofía",
+    "lastName": "Ramírez",
+    "password": "sofia321",
+    "bio": "Corredora amateur y amante del aguacate.",
+    "locale": "es-MX",
+    "verifiedStatus": "done"
+  },
+  {
+    "email": "ricardo.lopez@empresa.mx",
+    "firstName": "Ricardo",
+    "lastName": "López",
+    "password": "ricardoPass",
+    "bio": "Coach de alto rendimiento. Creando hábitos sostenibles.",
+    "locale": "es-MX",
+    "verifiedStatus": "email_sent"
+  },
+  {
+    "email": "valeria.torres@mxmail.mx",
+    "firstName": "Valeria",
+    "lastName": "Torres",
+    "password": "valeFit23",
+    "bio": "Apasionada por el yoga, la fotografía y los desayunos largos.",
+    "locale": "es-MX",
+    "verifiedStatus": "done"
+  },
+  {
+    "email": "fernando.castro@gmail.com",
+    "firstName": "Fernando",
+    "lastName": "Castro",
+    "password": "ferCastro!",
+    "bio": "Desarrollador de software y fan de los asados de domingo.",
+    "locale": "es-MX",
+    "verifiedStatus": "pending"
+  },
+  {
+    "email": "andrea.mendoza@mxmail.com",
+    "firstName": "Andrea",
+    "lastName": "Mendoza",
+    "password": "andrea2025",
+    "bio": "Creadora de contenido fitness. Mi lema: constancia sobre motivación.",
+    "locale": "es-MX",
+    "verifiedStatus": "done"
+  }
+]

@@ -12,7 +12,6 @@ data class CoachPost(
     val id: UUID? = null,
 
     @ManyToOne
-    @MapsId
     @JoinColumn(name = "coach_id")
     val coach: Coach,
 

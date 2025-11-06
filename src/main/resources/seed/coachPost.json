@@ -1,0 +1,74 @@
+[
+  {
+    "coachEmail": "majo@gmail.com",
+    "type": "PERSONAL_SESSION",
+    "body": "Hola, me llamo Majo y este es mi primer post. Estoy muy emocionada por empezar a entrenar contigo.",
+    "status": "DRAFT"
+  },
+  {
+    "coachEmail": "majo@gmail.com",
+    "type": "GROUP_SESSION",
+    "body": "Vengan a conocerme y a tomar un café en Café Madre después de un buen entreno. ¡Platicamos de tus metas!",
+    "status": "POSTED"
+  },
+  {
+    "coachEmail": "pablito@icloud.com",
+    "type": "GROUP_SESSION",
+    "body": "Mejor venganse conmigo al gym este sábado. Prometo que van a sudar pero también se van a reír.",
+    "status": "DRAFT"
+  },
+  {
+    "coachEmail": "ricardo.fit@mxmail.com",
+    "type": "PERSONAL_SESSION",
+    "body": "Sesiones personalizadas enfocadas en fuerza y tonificación. Agenda tu evaluación inicial sin costo.",
+    "status": "POSTED"
+  },
+  {
+    "coachEmail": "sofi.ramirez@coach.mx",
+    "type": "GROUP_SESSION",
+    "body": "Entrenamiento grupal de running este domingo a las 7 am en el Parque México. ¡Todos los niveles son bienvenidos!",
+    "status": "POSTED"
+  },
+  {
+    "coachEmail": "fernando@stronglab.mx",
+    "type": "PERSONAL_SESSION",
+    "body": "Nueva rutina de levantamiento olímpico. Perfecta para quienes buscan potencia y técnica.",
+    "status": "DRAFT"
+  },
+  {
+    "coachEmail": "andrea.mendoza@mxcoach.com",
+    "type": "GROUP_SESSION",
+    "body": "Clase de HIIT y movilidad en línea este jueves. 45 minutos para activar todo tu cuerpo.",
+    "status": "POSTED"
+  },
+  {
+    "coachEmail": "omar.navarro@coach.mx",
+    "type": "GROUP_SESSION",
+    "body": "Entrenamiento mixto de fuerza y cardio. Ideal para principiantes que quieren mejorar su condición.",
+    "status": "DRAFT"
+  },
+  {
+    "coachEmail": "paula.gonzalez@fitmail.mx",
+    "type": "PERSONAL_SESSION",
+    "body": "Plan nutricional personalizado + seguimiento semanal. Te enseño a comer sin culpa.",
+    "status": "POSTED"
+  },
+  {
+    "coachEmail": "val.torres@coach.mx",
+    "type": "GROUP_SESSION",
+    "body": "Sesión de bienestar integral este sábado. Hablaremos de sueño, estrés y alimentación consciente.",
+    "status": "POSTED"
+  },
+  {
+    "coachEmail": "karla.rios@coachfit.mx",
+    "type": "PERSONAL_SESSION",
+    "body": "Nueva programación de entrenamiento funcional. Empieza desde tu nivel actual y progresa seguro.",
+    "status": "DRAFT"
+  },
+  {
+    "coachEmail": "luis.carrillo@mxmail.com",
+    "type": "GROUP_SESSION",
+    "body": "Clase de calistenia al aire libre en Chapultepec. Solo necesitas tu cuerpo y buena actitud.",
+    "status": "POSTED"
+  }
+]

@@ -16,6 +16,9 @@ data class Athlete(
     @JoinColumn(name = "user_id")
     val user: User,
 
+    @Column
+    var sports: List<String> = listOf(),
+
     @Column(columnDefinition = "text")
     var goals: String? = null,
 

@@ -55,7 +55,7 @@ class AuthController(
 
     @PostMapping("/login")
     fun login(@Valid @RequestBody body: LoginRequest): ResponseEntity<Any> {
-        val user = userRepository.findByEmail(body.email) ?: return ResponseEntity.status(401).body(mapOf("error" to "Invalid creds"))
+        val user = userRepository.findByEmail(body.email) ?: return ResponseEntity.status(404).body(mapOf("error" to "User not found."))
         if (!passwordService.verify(user.passwordHash, body.password)) {
             return ResponseEntity.status(401).body(mapOf("error" to "Invalid creds"))
         }

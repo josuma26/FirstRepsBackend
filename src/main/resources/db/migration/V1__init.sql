@@ -24,6 +24,7 @@ CREATE TABLE coaches (
 CREATE TABLE athlete_profiles (
   user_id uuid PRIMARY KEY REFERENCES users(id) ON DELETE CASCADE,
   goals text,
+  sports text[],
   budget_min int,
   budget_max int
 );
